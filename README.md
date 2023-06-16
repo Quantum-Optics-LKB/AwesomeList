@@ -3,6 +3,7 @@
 
 - [Contents](#contents)
 - Lab automatisation
+	- [GUIMuquans](https://github.com/Quantum-Optics-LKB/GUIMuquans) -Laser GUI to control power, frequency and display Laser state.-
 	- [Control scope](https://github.com/Quantum-Optics-LKB/ScopeInterface) -Python interface for oscilloscopes comminicating via SCPI commands through PyVisa. USB or TCPIP or anything.-
 	- [Tema power supply current and voltage](https://github.com/Quantum-Optics-LKB/Power_Suply_RS232_Control) -Code written for controlling the Tenma 72-2715-
 	- [Piezo](https://github.com/Quantum-Optics-LKB/Piezo) -Python interface for Thorlabs piezo devices-
@@ -12,7 +13,9 @@
 	- [OBE](https://github.com/Quantum-Optics-LKB/OBE) -Small repo for Optical Bloch Equations.-
 	- [Rubidium Spectrum Model](https://github.com/DawesLab/rubidium) -This script provides python code that is useful for calculating absorption spectra for the Rubidium D1 and D2 lines.-
 - Lab measure
-	- [GUIMuquans](https://github.com/Quantum-Optics-LKB/GUIMuquans) -Laser GUI to control power, frequency and display Laser state.-
+	- [Phase](https://github.com/Quantum-Optics-LKB/PhaseUtils) -A selection of utilities to retrieve and process phase information of optical fields, live monitoring of the phase-
+    - [Velocity](https://github.com/Quantum-Optics-LKB/Turbulence) - Analyze the phase of the fluid in order to retrieve the velocity fields, detect vortices and cluster them in order to extract useful statistical properties.-
+    - [Transit](https://github.com/Quantum-Optics-LKB/Transit) - Code supporting Transit effects for non-linear index measurement in hot atomic vapors. This code aims at giving the tools for both measurement and numerical estimation of non-linear index of refractions in hot alkali vapors. -
 - Raw tools
     - Connection with instruments
         - [pyVISA](https://pyvisa.readthedocs.io/en/latest/) -PyVISA is a Python package that enables you to control all kinds of measurement devices independently of the interface -
