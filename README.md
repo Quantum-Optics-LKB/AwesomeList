@@ -1,5 +1,7 @@
 # Quantum Optics Awesome list
 
+### Legend
+- Home made: 🚀
 
 ### Lab automation
 - [GUIMuquans](https://github.com/Quantum-Optics-LKB/GUIMuquans) -Laser GUI to control power, frequency and display Laser state.  🚀
