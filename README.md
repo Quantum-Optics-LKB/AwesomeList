@@ -1,4 +1,4 @@
-# Awesome list
+# Quantum Optics Awesome list
 ## Contents
 
 - [Contents](#contents)
