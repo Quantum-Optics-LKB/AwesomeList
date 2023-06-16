@@ -34,8 +34,8 @@
 	- [FFT](https://pyfftw.readthedocs.io/en/latest//) -pyFFTW is a pythonic wrapper around FFTW, the speedy FFT library-
         
 ### Stylish Matplotlib tools
-- [Use a gradient of color in your plot](https://stackoverflow.com/questions/38208700/matplotlib-plot-lines-with-colors-through-colormap)
-[Example](https://github.com/Quantum-Optics-LKB/awesome_list/blob/main/Examples/Figures/Stylish%20Matplotlib%20tools/gradient_color_plot.md)
+- [Use a gradient of color in your plot](https://stackoverflow.com/questions/38208700/matplotlib-plot-lines-with-colors-through-colormap). See the 
+[example](https://github.com/Quantum-Optics-LKB/awesome_list/blob/main/Examples/Figures/Stylish%20Matplotlib%20tools/gradient_color_plot.md)
 
 	
 - [Use a slider](https://matplotlib.org/stable/gallery/widgets/slider_demo.html) - To slide by hand a parameter and see the resulting plot evolving
