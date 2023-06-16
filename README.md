@@ -41,14 +41,14 @@
 Example with a fractionnal slider and set_data (parametric plot of the varying parameter):
 
 
--[f-string formatting](https://realpython.com/python-f-strings/) -To format the strings of your plot (labels, titles...) with data
+- [f-string formatting](https://realpython.com/python-f-strings/) -To format the strings of your plot (labels, titles...) with data
 Example:
 
 
--[Cycler](https://matplotlib.org/cycler/) -To personnalize the way matplotlib cycles through the colors of the colorbar
+- [Cycler](https://matplotlib.org/cycler/) -To personnalize the way matplotlib cycles through the colors of the colorbar
 
 
--[Animation](https://matplotlib.org/stable/api/animation_api.html) -To animate your plot (1D or 2D)
+- [Animation](https://matplotlib.org/stable/api/animation_api.html) -To animate your plot (1D or 2D)
 Example from PhaseUtils/monitor_phase.py , in the function monitor_phase:
 
 
