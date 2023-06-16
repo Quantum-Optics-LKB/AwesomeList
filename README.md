@@ -4,7 +4,7 @@
 - [Contents](#contents)
 - [lab automatisation]()
 	- [Control scope](https://github.com/Quantum-Optics-LKB/ScopeInterface) -Python interface for oscilloscopes comminicating via SCPI commands through PyVisa. USB or TCPIP or anything.-
-	- [](https://github.com/Quantum-Optics-LKB/ScopeInterface) -Code written for controlling the Tenma 72-2715-
+	- [Tema power supply current and voltage](https://github.com/Quantum-Optics-LKB/Power_Suply_RS232_Control) -Code written for controlling the Tenma 72-2715-
 	- [Piezo](https://github.com/Quantum-Optics-LKB/Piezo) -Python interface for Thorlabs piezo devices-
 	- [Publications](#publications)
 - [Simulation]
@@ -25,7 +25,9 @@
     - [Tensorflow](https://www.tensorflow.org//) -Create production-grade machine learning models -
     - [pyUSB](https://pypi.org/project/pyusb/) -PyUSB offers easy USB devices communication in Python. -
     - [Cupy](https://cupy.dev/) -  CuPy is an open-source array library for GPU-accelerated computing with Python -
-    - [PCO](https://www.pco-tech.com/software/camera-control-software/pcocamware/) - Speak with the PCO camera (Doesn't work with Linux)
+    - [Allied vision](https://www.alliedvision.com/en/products/vimba-sdk/) - Speak with the PCO camera (runs on Windows, Linux)
+    - [PCO](https://www.pco-tech.com/software/camera-control-software/pcocamware/) - Speak with the Allied vision camera runs on Windows, not on linux)
+
     - [FFT](https://pyfftw.readthedocs.io/en/latest//) -pyFFTW is a pythonic wrapper around FFTW, the speedy FFT library-
 
 
