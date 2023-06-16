@@ -1,4 +1,4 @@
-```
+```python
 times = np.linspace(0,10)
  periods = np.linspace(2,6)
  fig, ax = plt.subplots()
