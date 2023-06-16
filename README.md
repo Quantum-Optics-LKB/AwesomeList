@@ -1,7 +1,7 @@
 # Quantum Optics Awesome list
 
 
-### Lab automation
+### Lab automation - instrument controls
 - [GUIMuquans](https://github.com/Quantum-Optics-LKB/GUIMuquans) -Laser GUI to control power, frequency and display Laser state.  🚀
 - [Control scope](https://github.com/Quantum-Optics-LKB/ScopeInterface) -Python interface for oscilloscopes comminicating via SCPI commands through PyVisa. USB or TCPIP or anything.  🚀
 - [Tenma power supply current and voltage](https://github.com/Quantum-Optics-LKB/Power_Suply_RS232_Control) -Code written for controlling the Tenma 72-2715. 🚀
@@ -18,6 +18,7 @@
 
 ### Lab measure
 - [Phase](https://github.com/Quantum-Optics-LKB/PhaseUtils) -A selection of utilities to retrieve and process phase information of optical fields, live monitoring of the phase.  🚀
+
 ### Raw tools
 - Connection with instruments
 	- [pyVISA](https://pyvisa.readthedocs.io/en/latest/) -PyVISA is a Python package that enables you to control all kinds of measurement devices independently of the interface.
@@ -28,7 +29,7 @@
 	- [Basler](https://github.com/basler/pypylon) - Speak with the Basler camera (runs on Windows, Linux).
 	- [FLIR/PointGrey](https://www.flir.fr/products/flycapture-sdk/) - Speak with the FLIR/PointGrey camera (runs on Windows, Linux).
 
-- Computing tools
+### Computing tools
 	- [Cupy](https://cupy.dev/). CuPy is an open-source array library for GPU-accelerated computing with Python.
 	- [Numba](https://numba.pydata.org/). Numba is an open source JIT compiler that translates a subset of Python and NumPy code into fast machine code.
 	- [Cython](https://cython.org/). Cython is an optimising static compiler for both the Python programming language and the extended Cython programming language (based on Pyrex).
