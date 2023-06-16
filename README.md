@@ -2,11 +2,11 @@
 
 
 ### Lab automation
-- [GUIMuquans](https://github.com/Quantum-Optics-LKB/GUIMuquans) -Laser GUI to control power, frequency and display Laser state.-
-- [Control scope](https://github.com/Quantum-Optics-LKB/ScopeInterface) -Python interface for oscilloscopes comminicating via SCPI commands through PyVisa. USB or TCPIP or anything.-
+- [GUIMuquans](https://github.com/Quantum-Optics-LKB/GUIMuquans) -Laser GUI to control power, frequency and display Laser state. 🚴‍♂️
+- [Control scope](https://github.com/Quantum-Optics-LKB/ScopeInterface) -Python interface for oscilloscopes comminicating via SCPI commands through PyVisa. USB or TCPIP or anything. 🚴‍♂️
 - [Tema power supply current and voltage](https://github.com/Quantum-Optics-LKB/Power_Suply_RS232_Control) -Code written for controlling the Tenma 72-2715-
-- [Piezo](https://github.com/Quantum-Optics-LKB/Piezo) -Python interface for Thorlabs piezo devices-
-- [Arduino ](https://github.com/Quantum-Optics-LKB/Arduino_linear_actuator) -Arduino driven linear actuator-
+- [Piezo](https://github.com/Quantum-Optics-LKB/Piezo). Python interface for Thorlabs piezo devices 🎹.
+- [Arduino ](https://github.com/Quantum-Optics-LKB/Arduino_linear_actuator). Arduino driven linear actuator 🎹.
 - [pylablib](https://pylablib.readthedocs.io/en/latest/) - Great repo to control different thorlabs motorized devices (piezo, rotating mounts), but works only on Windows. Uses kinesis (see next item)
 - [APT](https://thorlabs-apt-device.readthedocs.io/en/latest/) - lower level than kinesis, to control Thorlabs motorized devices. It works on Linux, so we should recode everything using it 
 ### Simulation
