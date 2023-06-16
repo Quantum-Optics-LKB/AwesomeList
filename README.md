@@ -14,11 +14,10 @@
 - [NLSE](https://github.com/Quantum-Optics-LKB/NLSE) -A small utility to easily simulate all sorts of non linear Schrödinger equation. It uses a split-step spectral scheme to solve the equation.  🚀
 - [OBE](https://github.com/Quantum-Optics-LKB/OBE) -Small repo for Optical Bloch Equations.  🚀
 - [Rubidium Spectrum Model](https://github.com/DawesLab/rubidium) -This script provides python code that is useful for calculating absorption spectra for the Rubidium D1 and D2 lines.
+- [Transit](https://github.com/Quantum-Optics-LKB/Transit) - Code supporting Transit effects for non-linear index measurement in hot atomic vapors. This code aims at giving the tools for both measurement and numerical estimation of non-linear index of refractions in hot alkali vapors.  🚀
 
 ### Lab measure
 - [Phase](https://github.com/Quantum-Optics-LKB/PhaseUtils) -A selection of utilities to retrieve and process phase information of optical fields, live monitoring of the phase.  🚀
-- [Velocity](https://github.com/Quantum-Optics-LKB/Turbulence) - Analyze the phase of the fluid in order to retrieve the velocity fields, detect vortices and cluster them in order to extract useful statistical properties.  🚀
-- [Transit](https://github.com/Quantum-Optics-LKB/Transit) - Code supporting Transit effects for non-linear index measurement in hot atomic vapors. This code aims at giving the tools for both measurement and numerical estimation of non-linear index of refractions in hot alkali vapors.  🚀
 ### Raw tools
 - Connection with instruments
 	- [pyVISA](https://pyvisa.readthedocs.io/en/latest/) -PyVISA is a Python package that enables you to control all kinds of measurement devices independently of the interface.
