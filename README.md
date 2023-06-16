@@ -2,35 +2,38 @@
 
 
 ### Lab automation
-- [GUIMuquans](https://github.com/Quantum-Optics-LKB/GUIMuquans) -Laser GUI to control power, frequency and display Laser state. 🚴‍♂️
-- [Control scope](https://github.com/Quantum-Optics-LKB/ScopeInterface) -Python interface for oscilloscopes comminicating via SCPI commands through PyVisa. USB or TCPIP or anything. 🚴‍♂️
+- [GUIMuquans](https://github.com/Quantum-Optics-LKB/GUIMuquans) -Laser GUI to control power, frequency and display Laser state.  🚀
+- [Control scope](https://github.com/Quantum-Optics-LKB/ScopeInterface) -Python interface for oscilloscopes comminicating via SCPI commands through PyVisa. USB or TCPIP or anything.  🚀
 - [Tema power supply current and voltage](https://github.com/Quantum-Optics-LKB/Power_Suply_RS232_Control) -Code written for controlling the Tenma 72-2715- 🎹
-- [Piezo](https://github.com/Quantum-Optics-LKB/Piezo). Python interface for Thorlabs piezo devices . 🚴‍
-- [Arduino actuator](https://github.com/Quantum-Optics-LKB/Arduino_linear_actuator). Arduino driven linear actuator 🎹.
+- [Piezo](https://github.com/Quantum-Optics-LKB/Piezo). Python interface for Thorlabs piezo devices .  🚀
+- [Arduino actuator](https://github.com/Quantum-Optics-LKB/Arduino_linear_actuator). Arduino driven linear actuator.  🚀
 - [pylablib](https://pylablib.readthedocs.io/en/latest/) - Great repo to control different thorlabs motorized devices (piezo, rotating mounts), but works only on Windows. Uses kinesis (see next item)
-- [APT](https://thorlabs-apt-device.readthedocs.io/en/latest/) - lower level than kinesis, to control Thorlabs motorized devices. It works on Linux, so we should recode everything using it 
+- [APT](https://thorlabs-apt-device.readthedocs.io/en/latest/) - lower level than kinesis, to control Thorlabs motorized devices. It works on Linux, so we should recode everything using it.
+
 ### Simulation
-- [NLSE](https://github.com/Quantum-Optics-LKB/NLSE) -A small utility to easily simulate all sorts of non linear Schrödinger equation. It uses a split-step spectral scheme to solve the equation.-
-- [OBE](https://github.com/Quantum-Optics-LKB/OBE) -Small repo for Optical Bloch Equations.-
-- [Rubidium Spectrum Model](https://github.com/DawesLab/rubidium) -This script provides python code that is useful for calculating absorption spectra for the Rubidium D1 and D2 lines.-
+- [NLSE](https://github.com/Quantum-Optics-LKB/NLSE) -A small utility to easily simulate all sorts of non linear Schrödinger equation. It uses a split-step spectral scheme to solve the equation.  🚀
+- [OBE](https://github.com/Quantum-Optics-LKB/OBE) -Small repo for Optical Bloch Equations.  🚀
+- [Rubidium Spectrum Model](https://github.com/DawesLab/rubidium) -This script provides python code that is useful for calculating absorption spectra for the Rubidium D1 and D2 lines.
+
 ### Lab measure
-- [Phase](https://github.com/Quantum-Optics-LKB/PhaseUtils) -A selection of utilities to retrieve and process phase information of optical fields, live monitoring of the phase-
-- [Velocity](https://github.com/Quantum-Optics-LKB/Turbulence) - Analyze the phase of the fluid in order to retrieve the velocity fields, detect vortices and cluster them in order to extract useful statistical properties.-
-- [Transit](https://github.com/Quantum-Optics-LKB/Transit) - Code supporting Transit effects for non-linear index measurement in hot atomic vapors. This code aims at giving the tools for both measurement and numerical estimation of non-linear index of refractions in hot alkali vapors. -
+- [Phase](https://github.com/Quantum-Optics-LKB/PhaseUtils) -A selection of utilities to retrieve and process phase information of optical fields, live monitoring of the phase.  🚀
+- [Velocity](https://github.com/Quantum-Optics-LKB/Turbulence) - Analyze the phase of the fluid in order to retrieve the velocity fields, detect vortices and cluster them in order to extract useful statistical properties.  🚀
+- [Transit](https://github.com/Quantum-Optics-LKB/Transit) - Code supporting Transit effects for non-linear index measurement in hot atomic vapors. This code aims at giving the tools for both measurement and numerical estimation of non-linear index of refractions in hot alkali vapors.  🚀
 ### Raw tools
 - Connection with instruments
-	- [pyVISA](https://pyvisa.readthedocs.io/en/latest/) -PyVISA is a Python package that enables you to control all kinds of measurement devices independently of the interface -
-	- [pySerial](https://pypi.org/project/pyserial/) -This module encapsulates the access for the serial port.-
-	- [pyUSB](https://pypi.org/project/pyusb/) -PyUSB offers easy USB devices communication in Python. -    
-	- [Allied vision](https://www.alliedvision.com/en/products/vimba-sdk/) - Speak with the PCO camera (runs on Windows, Linux)
-	- [PCO](https://www.pco-tech.com/software/camera-control-software/pcocamware/) - Speak with the Allied vision camera (runs on Windows, not on linux)
-	- [Basler](https://github.com/basler/pypylon) - Speak with the Basler camera (runs on Windows, Linux)
-	- [FLIR/PointGrey](https://www.flir.fr/products/flycapture-sdk/) - Speak with the FLIR/PointGrey camera (runs on Windows, Linux)
+	- [pyVISA](https://pyvisa.readthedocs.io/en/latest/) -PyVISA is a Python package that enables you to control all kinds of measurement devices independently of the interface.
+	- [pySerial](https://pypi.org/project/pyserial/) -This module encapsulates the access for the serial port.
+	- [pyUSB](https://pypi.org/project/pyusb/) -PyUSB offers easy USB devices communication in Python.
+	- [Allied vision](https://www.alliedvision.com/en/products/vimba-sdk/) - Speak with the PCO camera (runs on Windows, Linux).
+	- [PCO](https://www.pco-tech.com/software/camera-control-software/pcocamware/) - Speak with the Allied vision camera (runs on Windows, not on linux).
+	- [Basler](https://github.com/basler/pypylon) - Speak with the Basler camera (runs on Windows, Linux).
+	- [FLIR/PointGrey](https://www.flir.fr/products/flycapture-sdk/) - Speak with the FLIR/PointGrey camera (runs on Windows, Linux).
+
 - Computing tools
-	- [Cupy](https://cupy.dev/) -  CuPy is an open-source array library for GPU-accelerated computing with Python -
-	- [Numba](https://numba.pydata.org/) -Numba is an open source JIT compiler that translates a subset of Python and NumPy code into fast machine code. -
-	- [Cython](https://cython.org/) -Cython is an optimising static compiler for both the Python programming language and the extended Cython programming language (based on Pyrex).-
-	- [Tensorflow](https://www.tensorflow.org//) -Create production-grade machine learning models -
+	- [Cupy](https://cupy.dev/). CuPy is an open-source array library for GPU-accelerated computing with Python.
+	- [Numba](https://numba.pydata.org/). Numba is an open source JIT compiler that translates a subset of Python and NumPy code into fast machine code.
+	- [Cython](https://cython.org/). Cython is an optimising static compiler for both the Python programming language and the extended Cython programming language (based on Pyrex).
+	- [Tensorflow](https://www.tensorflow.org//). Create production-grade machine learning models. 
 	- [FFT](https://pyfftw.readthedocs.io/en/latest//) -pyFFTW is a pythonic wrapper around FFTW, the speedy FFT library-
         
 ### Stylish Matplotlib tools
