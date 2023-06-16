@@ -30,11 +30,11 @@
 	- [FLIR/PointGrey](https://www.flir.fr/products/flycapture-sdk/) - Speak with the FLIR/PointGrey camera (runs on Windows, Linux).
 
 ### Computing tools
-	- [Cupy](https://cupy.dev/). CuPy is an open-source array library for GPU-accelerated computing with Python.
-	- [Numba](https://numba.pydata.org/). Numba is an open source JIT compiler that translates a subset of Python and NumPy code into fast machine code.
-	- [Cython](https://cython.org/). Cython is an optimising static compiler for both the Python programming language and the extended Cython programming language (based on Pyrex).
-	- [Tensorflow](https://www.tensorflow.org//). Create production-grade machine learning models. 
-	- [FFT](https://pyfftw.readthedocs.io/en/latest//) -pyFFTW is a pythonic wrapper around FFTW, the speedy FFT library-
+- [Cupy](https://cupy.dev/). CuPy is an open-source array library for GPU-accelerated computing with Python.
+- [Numba](https://numba.pydata.org/). Numba is an open source JIT compiler that translates a subset of Python and NumPy code into fast machine code.
+- [Cython](https://cython.org/). Cython is an optimising static compiler for both the Python programming language and the extended Cython programming language (based on Pyrex).
+- [Tensorflow](https://www.tensorflow.org//). Create production-grade machine learning models. 
+- [FFT](https://pyfftw.readthedocs.io/en/latest//) -pyFFTW is a pythonic wrapper around FFTW, the speedy FFT library-
         
 ### Stylish Matplotlib tools
 - [Use a gradient of color in your plot](https://stackoverflow.com/questions/38208700/matplotlib-plot-lines-with-colors-through-colormap). See the 
