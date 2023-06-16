@@ -21,9 +21,11 @@
     - [pyUSB](https://pypi.org/project/pyusb/) -PyUSB offers easy USB devices communication in Python. -
     - [Cupy](https://cupy.dev/) -  CuPy is an open-source array library for GPU-accelerated computing with Python -
     - [Numba](https://numba.pydata.org/) -Numba is an open source JIT compiler that translates a subset of Python and NumPy code into fast machine code. -
-    - [Cython](https://cython.org/) -Cython is an optimising static compiler for both the Python programming language and the extended Cython programming language (based on Pyrex). -
+    - [Cython](https://cython.org/) -Cython is an optimising static compiler for both the Python programming language and the extended Cython programming language (based on Pyrex).-
     - [Tensorflow](https://www.tensorflow.org//) -Create production-grade machine learning models -
     - [pyUSB](https://pypi.org/project/pyusb/) -PyUSB offers easy USB devices communication in Python. -
     - [Cupy](https://cupy.dev/) -  CuPy is an open-source array library for GPU-accelerated computing with Python -
-    - [PCO](https://www.pco-tech.com/software/camera-control-software/pcocamware/) - Speak with the PCO camera
+    - [PCO](https://www.pco-tech.com/software/camera-control-software/pcocamware/) - Speak with the PCO camera (Doesn't work with Linux)
+    - [FFT](https://pyfftw.readthedocs.io/en/latest//) -pyFFTW is a pythonic wrapper around FFTW, the speedy FFT library-
+
 
