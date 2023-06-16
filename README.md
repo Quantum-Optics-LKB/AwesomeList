@@ -35,21 +35,24 @@
         
 ### Stylish Matplotlib tools
 - [Use a gradient of color in your plot](https://stackoverflow.com/questions/38208700/matplotlib-plot-lines-with-colors-through-colormap)
+[Example](https://github.com/Quantum-Optics-LKB/awesome_list/blob/main/Examples/Figures/Stylish%20Matplotlib%20tools/gradient_color_plot.md)
 
 	
 - [Use a slider](https://matplotlib.org/stable/gallery/widgets/slider_demo.html) - To slide by hand a parameter and see the resulting plot evolving
-Example with a fractionnal slider and set_data (parametric plot of the varying parameter):
+[Example with a discrete slider and parametric plots (uses set_data)](https://github.com/Quantum-Optics-LKB/awesome_list/blob/main/Examples/Figures/Stylish%20Matplotlib%20tools/slider.md)
 
 
 - [f-string formatting](https://realpython.com/python-f-strings/) -To format the strings of your plot (labels, titles...) with data
-Example:
+[Example](https://github.com/Quantum-Optics-LKB/awesome_list/blob/main/Examples/Figures/Stylish%20Matplotlib%20tools/f-string.md)
 
 
 - [Cycler](https://matplotlib.org/cycler/) -To personnalize the way matplotlib cycles through the colors of the colorbar
+[Example](https://github.com/Quantum-Optics-LKB/awesome_list/blob/main/Examples/Figures/Stylish%20Matplotlib%20tools/cycler.md)
+
 
 
 - [Animation](https://matplotlib.org/stable/api/animation_api.html) -To animate your plot (1D or 2D)
-Example from PhaseUtils/monitor_phase.py , in the function monitor_phase:
+[Example from PhaseUtils/monitor_phase.py](https://github.com/Quantum-Optics-LKB/awesome_list/blob/main/Examples/Figures/Stylish%20Matplotlib%20tools/animation.md)
 
 
 
