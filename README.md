@@ -24,7 +24,7 @@
 	- [pySerial](https://pypi.org/project/pyserial/) -This module encapsulates the access for the serial port.
 	- [pyUSB](https://pypi.org/project/pyusb/) -PyUSB offers easy USB devices communication in Python.
 	- [Allied vision](https://www.alliedvision.com/en/products/vimba-sdk/) - Speak with the PCO camera (runs on Windows, Linux).
-	- [PCO](https://www.pco-tech.com/software/camera-control-software/pcocamware/) - Speak with the Allied vision camera (runs on Windows, not on linux).
+	- [PCO](https://www.pco.de/software/development-tools/pcosdk/) - Speak with the Allied vision camera (runs on Windows, not on linux).
 	- [Basler](https://github.com/basler/pypylon) - Speak with the Basler camera (runs on Windows, Linux).
 	- [FLIR/PointGrey](https://www.flir.fr/products/flycapture-sdk/) - Speak with the FLIR/PointGrey camera (runs on Windows, Linux).
 
