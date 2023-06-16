@@ -2,7 +2,7 @@
 ## Contents
 
 - [Contents](#contents)
-- Lab automatisation
+### Lab automatisation
 	- [GUIMuquans](https://github.com/Quantum-Optics-LKB/GUIMuquans) -Laser GUI to control power, frequency and display Laser state.-
 	- [Control scope](https://github.com/Quantum-Optics-LKB/ScopeInterface) -Python interface for oscilloscopes comminicating via SCPI commands through PyVisa. USB or TCPIP or anything.-
 	- [Tema power supply current and voltage](https://github.com/Quantum-Optics-LKB/Power_Suply_RS232_Control) -Code written for controlling the Tenma 72-2715-
