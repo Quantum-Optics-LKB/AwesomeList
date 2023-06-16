@@ -7,7 +7,7 @@
 - [Tenma power supply current and voltage](https://github.com/Quantum-Optics-LKB/Power_Suply_RS232_Control) -Code written for controlling the Tenma 72-2715. 🚀
 - [Piezo](https://github.com/Quantum-Optics-LKB/Piezo). Python interface for Thorlabs piezo devices .  🚀
 - [Arduino actuator](https://github.com/Quantum-Optics-LKB/Arduino_linear_actuator). Arduino driven linear actuator.  🚀
-- [pylablib](https://pylablib.readthedocs.io/en/latest/) - Great repo to control different thorlabs motorized devices (piezo, rotating mounts), but works only on Windows. Uses kinesis (see next item)
+- [pylablib](https://pylablib.readthedocs.io/en/latest/) - Great repo to control different thorlabs motorized devices (piezo, rotating mounts), but works only on Windows. 
 - [APT](https://thorlabs-apt-device.readthedocs.io/en/latest/) - lower level than kinesis, to control Thorlabs motorized devices. It works on Linux, so we should recode everything using it.
 
 ### Simulation
