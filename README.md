@@ -55,19 +55,12 @@
 ### Stylish Matplotlib tools
 - [Use a gradient of color in your plot](https://stackoverflow.com/questions/38208700/matplotlib-plot-lines-with-colors-through-colormap). See the 
 [example](https://github.com/Quantum-Optics-LKB/awesome_list/blob/main/Examples/Figures/Stylish%20Matplotlib%20tools/gradient_color_plot.md).
-
 - [Use a slider](https://matplotlib.org/stable/gallery/widgets/slider_demo.html) - See the 
 [example with a discrete slider and parametric plots](https://github.com/Quantum-Optics-LKB/awesome_list/blob/main/Examples/Figures/Stylish%20Matplotlib%20tools/slider.md).
-
 - [f-string formatting](https://realpython.com/python-f-strings/). Format strings of your plot (labels, titles...) with data.
 See the [example](https://github.com/Quantum-Optics-LKB/awesome_list/blob/main/Examples/Figures/Stylish%20Matplotlib%20tools/f-string.md).
-
-
 - [Cycler](https://matplotlib.org/cycler/). Personnalize the way matplotlib cycles through the colors of the colorbar. See the 
 [example](https://github.com/Quantum-Optics-LKB/awesome_list/blob/main/Examples/Figures/Stylish%20Matplotlib%20tools/cycler.md).
-
-
-
 - [Animation](https://matplotlib.org/stable/api/animation_api.html). Animate your plot (1D or 2D). See the [example from PhaseUtils/monitor_phase.py](https://github.com/Quantum-Optics-LKB/awesome_list/blob/main/Examples/Figures/Stylish%20Matplotlib%20tools/animation.md).
 
 
