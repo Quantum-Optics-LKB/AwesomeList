@@ -2,6 +2,22 @@
 
 ```Home made = 🚀```
 
+
+   * [Lab automation and instrument control](#lab-automation-and-instrument-control)
+      * [Laser](#laser)
+      * [Thorlabs](#thorlabs)
+      * [Scope, driver and actuators](#scope-driver-and-actuators)
+      * [Cameras](#cameras)
+      * [Generic communication tools](#generic-communication-tools)
+   * [Measurement utilities](#measurement-utilities)
+   * [Numerical simulations](#numerical-simulations)
+      * [Solvers](#solvers)
+      * [Computing tools](#computing-tools)
+   * [Publication](#publication)
+      * [Stylish Matplotlib tools](#stylish-matplotlib-tools)
+
+--- 
+
 ## Lab automation and instrument control
 ### Laser
 - [GUIMuquans](https://github.com/Quantum-Optics-LKB/GUIMuquans). Laser GUI to control power, frequency and display Laser state.  🚀
