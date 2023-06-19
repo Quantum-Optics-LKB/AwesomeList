@@ -16,8 +16,8 @@
 - [Arduino actuator](https://github.com/Quantum-Optics-LKB/Arduino_linear_actuator). Arduino driven linear actuator.  🚀
 
 ### Cameras
-- [Allied vision](https://www.alliedvision.com/en/products/vimba-sdk/).PCO camera (runs on Windows, Linux).
-- [PCO](https://www.pco-tech.com/software/camera-control-software/pcocamware/). Allied vision camera (runs on Windows, not on linux).
+- [Allied vision](https://www.alliedvision.com/en/products/vimba-sdk/). Allied vision camera (runs on Windows, Linux).
+- [PCO](https://www.pco-tech.com/software/camera-control-software/pcocamware/). PCO camera (runs on Windows, not on linux).
 - [Basler](https://github.com/basler/pypylon). Basler camera (runs on Windows, Linux).
 - [FLIR/PointGrey](https://www.flir.fr/products/flycapture-sdk/). FLIR/PointGrey camera (runs on Windows, Linux).
 
