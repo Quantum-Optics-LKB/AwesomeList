@@ -51,7 +51,7 @@
 - [FFT](https://pyfftw.readthedocs.io/en/latest//). Pythonic wrapper around FFTW, the speedy FFT library.
 
 
-## Publication tools	    
+## Publication	    
 ### Stylish Matplotlib tools
 - [Use a gradient of color in your plot](https://stackoverflow.com/questions/38208700/matplotlib-plot-lines-with-colors-through-colormap). See the 
 [example](https://github.com/Quantum-Optics-LKB/awesome_list/blob/main/Examples/Figures/Stylish%20Matplotlib%20tools/gradient_color_plot.md).
