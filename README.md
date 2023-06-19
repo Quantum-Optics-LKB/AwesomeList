@@ -80,4 +80,5 @@ See the [example](https://github.com/Quantum-Optics-LKB/awesome_list/blob/main/E
 - [Animation](https://matplotlib.org/stable/api/animation_api.html). Animate your plot (1D or 2D). See the [example from PhaseUtils/monitor_phase.py](https://github.com/Quantum-Optics-LKB/awesome_list/blob/main/Examples/Figures/Stylish%20Matplotlib%20tools/animation.md).
 
 
-
+### Markdown
+- [TOC Generation](https://github.com/ekalinin/github-markdown-toc)
