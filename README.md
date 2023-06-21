@@ -34,7 +34,7 @@
 ### Cameras
 - [Allied vision](https://www.alliedvision.com/en/products/vimba-sdk/). Allied vision camera (runs on Windows, Linux).
 - [PCO](https://www.pco-tech.com/software/camera-control-software/pcocamware/). PCO camera (runs on Windows, not on linux).
-- [Basler](https://github.com/basler/pypylon). Basler camera (runs on Windows, Linux).
+- [Basler](https://github.com/basler/pypylon). Basler camera (runs on Windows, [Linux](https://www.forecr.io/blogs/connectivity/pylon-installation-for-basler-camera)): [GUI download](https://www.baslerweb.com/en/downloads/software-downloads/) and [Python SDK](https://github.com/basler/pypylon).
 - [FLIR/PointGrey](https://www.flir.fr/products/flycapture-sdk/). FLIR/PointGrey camera (runs on Windows, Linux).
 
 
