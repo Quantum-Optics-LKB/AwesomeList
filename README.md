@@ -37,20 +37,13 @@
 - [Basler](https://github.com/basler/pypylon). Basler camera (runs on Windows, [Linux](https://www.forecr.io/blogs/connectivity/pylon-installation-for-basler-camera)): [GUI download](https://www.baslerweb.com/en/downloads/software-downloads/) and [Python SDK](https://github.com/basler/pypylon).
 - [FLIR/PointGrey](https://www.flir.fr/products/flycapture-sdk/). FLIR/PointGrey camera (runs on Windows, Linux).
 
-
 ### Generic communication tools
 - [pyVISA](https://pyvisa.readthedocs.io/en/latest/). Python package to enable control of measurement devices independently of the interface.
 - [pySerial](https://pypi.org/project/pyserial/). Encapsulate the access for the serial port.
 - [pyUSB](https://pypi.org/project/pyusb/). Easy USB devices communication in Python.
 
-
-
-
 ## Measurement utilities
 - [Phase](https://github.com/Quantum-Optics-LKB/PhaseUtils). Utilities to retrieve and process phase information of optical fields, live monitoring of the phase.  🚀
-- [electric susceptibility](https://github.com/durham-qlm/ElecSus/tree/main). A program to calculate the electric susceptibility of an atomic ensemble. 
-The program is designed to model weak-probe laser spectra on the D-lines of thermal alkali metal vapour cells. 
-The program also includes fitting routines which allow experimental parameters to be extracted from experimental spectroscopic data.
 
 ## Numerical simulations
 ### Solvers
@@ -58,8 +51,9 @@ The program also includes fitting routines which allow experimental parameters t
 - [OBE](https://github.com/Quantum-Optics-LKB/OBE). Solving Optical Bloch Equations.  🚀
 - [Rubidium Spectrum Model](https://github.com/DawesLab/rubidium). Python code to calculate absorption spectra for the Rb lines.
 - [Transit](https://github.com/Quantum-Optics-LKB/Transit). Transit effects for non-linear index measurement in hot atomic vapors. Both measurement utilities and numerical estimation.  🚀
-
-
+- [Electric susceptibility](https://github.com/durham-qlm/ElecSus/tree/main). A program to calculate the electric susceptibility of an atomic ensemble. 
+The program is designed to model weak-probe laser spectra on the D-lines of thermal alkali metal vapour cells. 
+The program also includes fitting routines which allow experimental parameters to be extracted from experimental spectroscopic data.
 
 ### Computing tools
 - [Cupy](https://cupy.dev/). Open-source array library for GPU-accelerated computing with Python.
@@ -67,7 +61,6 @@ The program also includes fitting routines which allow experimental parameters t
 - [Cython](https://cython.org/). Optimising static compiler for both the Python and the extended Cython programming language (based on Pyrex).
 - [Tensorflow](https://www.tensorflow.org//). Create production-grade machine learning models. 
 - [FFT](https://pyfftw.readthedocs.io/en/latest//). Pythonic wrapper around FFTW, the speedy FFT library.
-
 
 ## Publication	    
 ### Stylish Matplotlib tools
@@ -80,7 +73,6 @@ See the [example](https://github.com/Quantum-Optics-LKB/awesome_list/blob/main/E
 - [Cycler](https://matplotlib.org/cycler/). Personnalize the way matplotlib cycles through the colors of the colorbar. See the 
 [example](https://github.com/Quantum-Optics-LKB/awesome_list/blob/main/Examples/Figures/Stylish%20Matplotlib%20tools/cycler.md).
 - [Animation](https://matplotlib.org/stable/api/animation_api.html). Animate your plot (1D or 2D). See the [example from PhaseUtils/monitor_phase.py](https://github.com/Quantum-Optics-LKB/awesome_list/blob/main/Examples/Figures/Stylish%20Matplotlib%20tools/animation.md).
-
 
 ### Markdown
 - [TOC Generation](https://github.com/ekalinin/github-markdown-toc)
