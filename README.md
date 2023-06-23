@@ -48,7 +48,9 @@
 
 ## Measurement utilities
 - [Phase](https://github.com/Quantum-Optics-LKB/PhaseUtils). Utilities to retrieve and process phase information of optical fields, live monitoring of the phase.  🚀
-
+- [electric susceptibility](https://github.com/durham-qlm/ElecSus/tree/main). A program to calculate the electric susceptibility of an atomic ensemble. 
+The program is designed to model weak-probe laser spectra on the D-lines of thermal alkali metal vapour cells. 
+The program also includes fitting routines which allow experimental parameters to be extracted from experimental spectroscopic data.
 
 ## Numerical simulations
 ### Solvers
