@@ -62,6 +62,9 @@ The program also includes fitting routines which allow experimental parameters t
 - [Tensorflow](https://www.tensorflow.org//). Create production-grade machine learning models. 
 - [FFT](https://pyfftw.readthedocs.io/en/latest//). Pythonic wrapper around FFTW, the speedy FFT library.
 
+## Useful Software
+- [Gaussian Beam](https://sourceforge.net/projects/gaussianbeam/) free software to calculate profile of gaussian beams through lenses (to calculate waist fx)
+  
 ## Publication	    
 ### Stylish Matplotlib tools
 - [Use a gradient of color in your plot](https://stackoverflow.com/questions/38208700/matplotlib-plot-lines-with-colors-through-colormap). See the 
