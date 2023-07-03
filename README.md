@@ -79,3 +79,6 @@ See the [example](https://github.com/Quantum-Optics-LKB/awesome_list/blob/main/E
 
 ### Markdown
 - [TOC Generation](https://github.com/ekalinin/github-markdown-toc)
+
+## Documentation & wiki
+- Group wiki [github link](https://github.com/quantumopticslkb/doc.quantumoptics.fr.git)
