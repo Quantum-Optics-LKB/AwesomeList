@@ -1,4 +1,4 @@
-# Quantum Optics Awesome list
+# Quantum Optics Awesome list.
 
 ```Home made = 🚀```
 
