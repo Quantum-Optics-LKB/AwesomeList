@@ -31,6 +31,9 @@
 - [Tenma power supply current and voltage](https://github.com/Quantum-Optics-LKB/Power_Suply_RS232_Control). Code for controlling the Tenma 72-2715. 🚀
 - [Arduino actuator](https://github.com/Quantum-Optics-LKB/Arduino_linear_actuator). Arduino driven linear actuator.  🚀
 
+### RF Driver
+- [Windfreak RF Synthesizers](https://github.com/christian-hahn/windfreak-python) 🚀
+
 ### Cameras
 - [Allied vision](https://www.alliedvision.com/en/products/vimba-sdk/). Allied vision camera (runs on Windows, Linux).
 - [PCO](https://www.pco-tech.com/software/camera-control-software/pcocamware/). PCO camera (runs on Windows, not on linux).
