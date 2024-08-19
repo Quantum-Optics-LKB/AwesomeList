@@ -9,6 +9,7 @@
       * [Scope, driver and actuators](#scope-driver-and-actuators)
       * [Cameras](#cameras)
       * [Generic communication tools](#generic-communication-tools)
+      * [LightField](#lightfield)
    * [Measurement utilities](#measurement-utilities)
    * [Numerical simulations](#numerical-simulations)
       * [Solvers](#solvers)
