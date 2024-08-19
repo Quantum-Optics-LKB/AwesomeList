@@ -34,6 +34,9 @@
 ### RF Driver
 - [Windfreak RF Synthesizers](https://github.com/christian-hahn/windfreak-python) 🚀
 
+### LightField
+- [LightField](https://github.com/Quantum-Optics-LKB/LightField)
+
 ### Cameras
 - [Allied vision](https://www.alliedvision.com/en/products/vimba-sdk/). Allied vision camera (runs on Windows, Linux).
 - [PCO](https://www.pco-tech.com/software/camera-control-software/pcocamware/). PCO camera (runs on Windows, not on linux).
