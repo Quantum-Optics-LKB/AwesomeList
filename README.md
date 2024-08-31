@@ -30,7 +30,7 @@
 - [APT](https://thorlabs-apt-device.readthedocs.io/en/latest/) - lower level than kinesis, to control Thorlabs motorized devices. It works on Linux.
 
 ### Scope, driver and actuators
-- [Control scope](https://github.com/Quantum-Optics-LKB/ScopeInterface). Python interface for oscilloscopes comminicating via SCPI commands through PyVisa. USB or TCPIP or anything.  🚀
+- [Control scope](https://github.com/Quantum-Optics-LKB/ScopeInterface). Python interface for oscilloscopes communicating via SCPI commands through PyVisa. USB or TCPIP or anything.  🚀
 - [Tenma power supply current and voltage](https://github.com/Quantum-Optics-LKB/Power_Suply_RS232_Control). Code for controlling the Tenma 72-2715. 🚀
 - [Arduino actuator](https://github.com/Quantum-Optics-LKB/Arduino_linear_actuator). Arduino driven linear actuator.  🚀
 
