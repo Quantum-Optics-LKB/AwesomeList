@@ -22,6 +22,7 @@
 ## Lab automation and instrument control
 ### Laser
 - [GUIMuquans](https://github.com/Quantum-Optics-LKB/GUIMuquans). Laser GUI to control power, frequency and display Laser state.  🚀
+- [PreciLaser](https://github.com/Quantum-Optics-LKB/PreciLaser/tree/main). Laser driver for PreciLaser lasers. 🚀
 ### Thorlabs
 - [Piezo](https://github.com/Quantum-Optics-LKB/Piezo). Python interface for Thorlabs piezo devices.  🚀
 - [pylablib](https://pylablib.readthedocs.io/en/latest/). Control different Thorlabs motorized devices: piezo, rotating mounts. (Windows only). 
@@ -38,11 +39,15 @@
 ### LightField
 - [LightField](https://github.com/Quantum-Optics-LKB/LightField)
 
+### Wavemeters
+- [LambdaMeter](https://github.com/Quantum-Optics-LKB/LambdaMeter). A Python interface for HighFiness wavelengthmeters, with a server and client built-in to allow remote access. 🚀
+
 ### Cameras
 - [Allied vision](https://www.alliedvision.com/en/products/vimba-sdk/). Allied vision camera (runs on Windows, Linux).
 - [PCO](https://www.pco-tech.com/software/camera-control-software/pcocamware/). PCO camera (runs on Windows, not on linux).
 - [Basler](https://github.com/basler/pypylon). Basler camera (runs on Windows, [Linux](https://www.forecr.io/blogs/connectivity/pylon-installation-for-basler-camera)): [GUI download](https://www.baslerweb.com/en/downloads/software-downloads/) and [Python SDK](https://github.com/basler/pypylon).
 - [FLIR/PointGrey](https://www.flir.fr/products/flycapture-sdk/). FLIR/PointGrey camera (runs on Windows, Linux).
+- [Cameras](https://github.com/Quantum-Optics-LKB/Cameras). A collection of minimum working examples for several manufacturers. 🚀
 
 ### Generic communication tools
 - [pyVISA](https://pyvisa.readthedocs.io/en/latest/). Python package to enable control of measurement devices independently of the interface.
