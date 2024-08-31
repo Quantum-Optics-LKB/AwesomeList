@@ -23,6 +23,7 @@
 ### Laser
 - [GUIMuquans](https://github.com/Quantum-Optics-LKB/GUIMuquans). Laser GUI to control power, frequency and display Laser state.  🚀
 - [PreciLaser](https://github.com/Quantum-Optics-LKB/PreciLaser/tree/main). Laser driver for PreciLaser lasers. 🚀
+- [SacherLion](https://github.com/Quantum-Optics-LKB/SacherLion). Laser driver for Sacher Lion laser diode. 🚀
 ### Thorlabs
 - [Piezo](https://github.com/Quantum-Optics-LKB/Piezo). Python interface for Thorlabs piezo devices.  🚀
 - [pylablib](https://pylablib.readthedocs.io/en/latest/). Control different Thorlabs motorized devices: piezo, rotating mounts. (Windows only). 
