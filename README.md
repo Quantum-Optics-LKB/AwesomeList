@@ -34,7 +34,7 @@
 - [Arduino actuator](https://github.com/Quantum-Optics-LKB/Arduino_linear_actuator). Arduino driven linear actuator.  🚀
 
 ### RF Driver
-- [Windfreak RF Synthesizers](https://github.com/christian-hahn/windfreak-python) 🚀
+- [Windfreak RF Synthesizers](https://github.com/christian-hahn/windfreak-python). To control windfreak RF synthesizers with Python.
 
 ### LightField
 - [LightField](https://github.com/Quantum-Optics-LKB/LightField)
