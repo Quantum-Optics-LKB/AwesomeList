@@ -42,6 +42,7 @@
 
 ### Wavemeters
 - [LambdaMeter](https://github.com/Quantum-Optics-LKB/LambdaMeter). A Python interface for HighFiness wavelengthmeters, with a server and client built-in to allow remote access. 🚀
+- [LambdaMeterWeb](https://github.com/Quantum-Optics-LKB/LambdaMeterWeb). A Python + HTML + API interface with **graphic webpage** to have remote access to the HighFiness wavelengthmeters. 🚀
 
 ### Cameras
 - [Allied vision](https://www.alliedvision.com/en/products/vimba-sdk/). Allied vision camera (runs on Windows, Linux).
