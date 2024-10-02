@@ -24,7 +24,7 @@
 - [GUIMuquans](https://github.com/Quantum-Optics-LKB/GUIMuquans). Laser GUI to control power, frequency and display Laser state.  🚀
 - [PreciLaser](https://github.com/Quantum-Optics-LKB/PreciLaser/tree/main). Laser driver for PreciLaser lasers. 🚀
 - [SacherLion](https://github.com/Quantum-Optics-LKB/SacherLion). Laser driver for Sacher Lion laser diode. 🚀
-- [PyPrl](https://pyrpl.readthedocs.io/en/latest/) PyRPL is an open-source software package providing many instruments on cheap FPGA hardware boards.
+- [PyPrl](https://pyrpl.readthedocs.io/en/latest/) PyRPL is an open-source software package and could be used to lock a laser.
 
 ### Thorlabs
 - [Piezo](https://github.com/Quantum-Optics-LKB/Piezo). Python interface for Thorlabs piezo devices.  🚀
@@ -35,6 +35,7 @@
 - [Control scope](https://github.com/Quantum-Optics-LKB/ScopeInterface). Python interface for oscilloscopes communicating via SCPI commands through PyVisa. USB or TCPIP or anything.  🚀
 - [Tenma power supply current and voltage](https://github.com/Quantum-Optics-LKB/Power_Suply_RS232_Control). Code for controlling the Tenma 72-2715. 🚀
 - [Arduino actuator](https://github.com/Quantum-Optics-LKB/Arduino_linear_actuator). Arduino driven linear actuator.  🚀
+- [PyPrl](https://pyrpl.readthedocs.io/en/latest/) PyRPL is an open-source software package providing many instruments on cheap FPGA hardware boards.
 
 ### RF Driver
 - [Windfreak RF Synthesizers](https://github.com/christian-hahn/windfreak-python). To control windfreak RF synthesizers with Python.
