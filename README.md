@@ -24,6 +24,8 @@
 - [GUIMuquans](https://github.com/Quantum-Optics-LKB/GUIMuquans). Laser GUI to control power, frequency and display Laser state.  🚀
 - [PreciLaser](https://github.com/Quantum-Optics-LKB/PreciLaser/tree/main). Laser driver for PreciLaser lasers. 🚀
 - [SacherLion](https://github.com/Quantum-Optics-LKB/SacherLion). Laser driver for Sacher Lion laser diode. 🚀
+- [PyPrl](https://pyrpl.readthedocs.io/en/latest/) PyRPL is an open-source software package providing many instruments on cheap FPGA hardware boards.
+
 ### Thorlabs
 - [Piezo](https://github.com/Quantum-Optics-LKB/Piezo). Python interface for Thorlabs piezo devices.  🚀
 - [pylablib](https://pylablib.readthedocs.io/en/latest/). Control different Thorlabs motorized devices: piezo, rotating mounts. (Windows only). 
@@ -65,7 +67,7 @@
 - [OBE](https://github.com/Quantum-Optics-LKB/OBE). Solving Optical Bloch Equations.  🚀
 - [Rubidium Spectrum Model](https://github.com/DawesLab/rubidium). Python code to calculate absorption spectra for the Rb lines.
 - [Transit](https://github.com/Quantum-Optics-LKB/Transit). Transit effects for non-linear index measurement in hot atomic vapors. Both measurement utilities and numerical estimation.  🚀
-- [Electric susceptibility](https://github.com/durham-qlm/ElecSus/tree/main). A program to calculate the electric susceptibility of an atomic ensemble. 
+- [Electric susceptibility - ElecSus](https://github.com/durham-qlm/ElecSus/tree/main). A program to calculate the electric susceptibility of an atomic ensemble. 
 The program is designed to model weak-probe laser spectra on the D-lines of thermal alkali metal vapour cells. 
 The program also includes fitting routines which allow experimental parameters to be extracted from experimental spectroscopic data.
 
