@@ -15,7 +15,6 @@
       * [Solvers](#solvers)
       * [Computing tools](#computing-tools)
    * [Publication](#publication)
-      * [Two-photon collisions via Two-Atom](#two-photon-collisions-via-two-atoms)
       * [Stylish Matplotlib tools](#stylish-matplotlib-tools)
 
 --- 
