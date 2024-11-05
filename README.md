@@ -84,7 +84,7 @@ The program also includes fitting routines which allow experimental parameters t
 - [Gaussian Beam](https://sourceforge.net/projects/gaussianbeam/) free software to calculate profile of gaussian beams through lenses (to calculate waist fx)
   
 ## Publication	    
-### Two-photon collisions via Two-Atom
+### Two Photon collisions via Two Atom
 - [Scully:](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.93.093002) An Awesome Article on the nature of entanglement and two-photon interactions.
 - [Fabre:](https://hal.science/hal-00802757/document) An Awesome Article on the effects of two-photon collisions if the photons are entangled.
 ### Vintage Articles on Photonic Fluidity
