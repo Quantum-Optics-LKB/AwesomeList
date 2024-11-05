@@ -84,8 +84,8 @@ The program also includes fitting routines which allow experimental parameters t
   
 ## Publication	    
 ### Two-Photon collisions via Two-Atom
-- [Scully](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.93.093002). An Awesome Article on the nature of entanglement and two-photon interactions.
-- [Fabre]([https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.93.093002](https://hal.science/hal-00802757/document)). An Awesome Article on the effects of two-photon collisions if the photons are entangled.
+- [Scully:](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.93.093002). An Awesome Article on the nature of entanglement and two-photon interactions.
+- [Fabre:](https://hal.science/hal-00802757/document). An Awesome Article on the effects of two-photon collisions if the photons are entangled.
 ### Stylish Matplotlib tools
 - [Use a gradient of color in your plot](https://stackoverflow.com/questions/38208700/matplotlib-plot-lines-with-colors-through-colormap). See the 
 [example](https://github.com/Quantum-Optics-LKB/awesome_list/blob/main/Examples/Figures/Stylish%20Matplotlib%20tools/gradient_color_plot.md).
