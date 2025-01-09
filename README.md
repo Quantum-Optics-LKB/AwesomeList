@@ -71,6 +71,8 @@
 - [Electric susceptibility - ElecSus](https://github.com/durham-qlm/ElecSus/tree/main). A program to calculate the electric susceptibility of an atomic ensemble. 
 The program is designed to model weak-probe laser spectra on the D-lines of thermal alkali metal vapour cells. 
 The program also includes fitting routines which allow experimental parameters to be extracted from experimental spectroscopic data.
+- [MEEP](https://meep.readthedocs.io/en/master/). Open source FDTD software with a python interface to solve Maxwell equations in mateials and nanostructures (see an [example](https://github.com/Quantum-Optics-LKB/NanophotonicsLab/tree/main/meep_tutorial) for nanofiber optimization).
+- [Tidy3D](https://www.flexcompute.com/tidy3d/solver/). An other FDTD software for electromagnetism simulation (not open source) with a nice web interface and very fast. Possibility to get a free educational licence.
 
 ### Computing tools
 - [Cupy](https://cupy.dev/). Open-source array library for GPU-accelerated computing with Python.
