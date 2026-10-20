@@ -100,4 +100,5 @@ See the [example](https://github.com/Quantum-Optics-LKB/awesome_list/blob/main/E
 - [TOC Generation](https://github.com/ekalinin/github-markdown-toc)
 
 ## Documentation & wiki
+- [Optics & Photonics](https://github.com/Cherish0925/optics-photonics) - English/Chinese directory of optical simulation and analysis software, with physical models, licenses, Python/API access and links to original documentation.
 - Group wiki [github link](https://github.com/quantumopticslkb/doc.quantumoptics.fr.git)
